@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "PlayX",
+    "slug": "playx-prototype",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.playxprototype"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.anonymous.playxprototype"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
